@@ -7,7 +7,7 @@ import os
 # clear the console screen (for Windows)
 os.system("cls")
 
-# color codes for terminal text formatting
+# colour codes for terminal text formatting
 BLACK = "\033[0;30m"
 RED = "\033[0;31m"
 GREEN = "\033[0;32m"
